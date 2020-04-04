@@ -1,2 +1,2 @@
-//@groovy.transform.Field
-def name = 'Stéphane Nsakala'
+@groovy.transform.Field
+def name = 'Stéphane Nsakala: ' + env.BUILD_ID
