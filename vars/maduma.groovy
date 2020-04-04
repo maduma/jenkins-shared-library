@@ -1,2 +1,2 @@
-@groovy.transform.Field
+//@groovy.transform.Field
 def name = 'Stéphane Nsakala'
